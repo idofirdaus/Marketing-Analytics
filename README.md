@@ -12,6 +12,7 @@ The Algoritm consist of:
 Code:
 The folder code consist of syntax of each algoritm using Jupyter Notebook
 
+
 Datasets:
 There are several datasets you can try but also have different usability
 1. Market Basket Analysis using dataset_MBA_coba.csv
